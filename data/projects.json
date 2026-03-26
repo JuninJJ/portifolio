@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "Portfolio Pessoal",
+    "description": "Portfolio profissional desenvolvido com Next.js e Tailwind CSS, com animações customizadas e design responsivo.",
+    "details": "Projeto construído do zero com Next.js 15, App Router e Tailwind CSS. Inclui animações de scroll, efeito parallax, fundo animado em CSS puro e API REST para gerenciar projetos dinamicamente.",
+    "image": "",
+    "tags": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "github": "",
+    "demo": "",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Previsão do Tempo",
+    "description": "App de clima em tempo real com geolocalização, previsão de 5 dias e animações de fundo dinâmicas.",
+    "details": "Consome a API OpenWeatherMap para buscar clima atual e previsão de 5 dias. Detecta a localização do usuário via Geolocation API. Fundo animado que muda conforme o clima: sol, chuva, neve e nuvens.",
+    "image": "",
+    "tags": ["React", "OpenWeatherMap API", "Tailwind CSS"],
+    "github": "",
+    "demo": "/weather",
+    "createdAt": "2024-04-01T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "App de Tarefas",
+    "description": "Aplicativo fullstack de gerenciamento de tarefas com autenticação, drag-and-drop e sincronização em tempo real.",
+    "details": "Backend em Node.js com Express e MongoDB. Frontend em React com Context API. Autenticação JWT, drag-and-drop nativo e WebSockets para atualização em tempo real entre múltiplos usuários.",
+    "image": "",
+    "tags": ["React", "Node.js", "MongoDB"],
+    "github": "",
+    "demo": "",
+    "createdAt": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "E-commerce Dashboard",
+    "description": "Dashboard administrativo para e-commerce com gráficos interativos, gestão de produtos e relatórios em tempo real.",
+    "details": "Painel completo com Chart.js para visualização de vendas, estoque e métricas. CRUD de produtos com upload de imagens, filtros avançados e exportação de relatórios em PDF e CSV.",
+    "image": "",
+    "tags": ["React", "TypeScript", "Chart.js"],
+    "github": "",
+    "demo": "",
+    "createdAt": "2024-03-01T00:00:00.000Z"
+  }
+]
